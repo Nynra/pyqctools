@@ -1,0 +1,7 @@
+qiskit==0.46.0
+qiskit-ibm-provider==0.8.0
+qiskit-ibm-runtime==0.18.0
+qiskit-terra==0.46.0
+PySide6
+kaleidoscope==0.2.0
+numpy

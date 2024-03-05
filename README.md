@@ -1,0 +1,2 @@
+# PyQcTools
+This repository contains some code that is usefull when creating quantum computing circuits using python. The only used backend for now is QisKit and for plotting Kaleidoscope is used. Most of the examples are sourced from qiskit documentation.
